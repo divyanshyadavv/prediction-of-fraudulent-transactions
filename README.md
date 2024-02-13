@@ -7,4 +7,6 @@ Candidates can use whatever method they wish to develop their machine learning m
 Following usual model development procedures, the model would be estimated on the 
 calibration data and tested on the validation data. This case requires both statistical analysis and 
 creativity/judgment. We recommend you spend time on both fine-tuning and interpreting the 
-results of your machine learning model.
+results of your machine learning model.<br>
+The dataset can be found <a href="https://www.kaggle.com/datasets/chitwanmanchanda/fraudulent-transactions-data">here</a>
+
